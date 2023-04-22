@@ -1,1 +1,1 @@
-This repository is created for homework8
+This repository is created for davaleba-8
